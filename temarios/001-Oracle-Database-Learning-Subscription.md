@@ -34,7 +34,7 @@
 * [23 Oracle Database 12c: Security (Edition 2)]
 * [24 SQL Development]
 * [25 Oracle Database Administration]
-* [26 PL/SQL Development]
+* [26 PL/SQL Development](https://github.com/adolfodelarosades/Oracle/blob/main/temarios/001-Oracle-Database-Learning-Subscription/26-PL-SQL-Development.md)
 * [27 Application Express Development]
 * [28 Oracle Exadata Database Machine]
 * [29 Earn the Oracle Database Administration 2019 Certified Professional Credential (CHN)]
