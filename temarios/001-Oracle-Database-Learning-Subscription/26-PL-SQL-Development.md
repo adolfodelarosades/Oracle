@@ -25,5 +25,5 @@ This Learning Path teaches you how to develop stored procedures, functions, pack
 Extend the functionality of the SQL language with PL/SQL language to write application code so that your organization can realize the full benefit of utilizing Oracle best practices.
 
 
-![PLSQL-01](images/PLSQL-01.png)
-![PLSQL-02](images/PLSQL-02.png)
+![PLSQL-01](26-PL-SQL-Development/images/PLSQL-01.png)
+![PLSQL-02](26-PL-SQL-Development/images/PLSQL-02.png)
