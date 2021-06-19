@@ -27,3 +27,7 @@ Extend the functionality of the SQL language with PL/SQL language to write appli
 
 ![PLSQL-01](26-PL-SQL-Development/images/PLSQL-01.png)
 ![PLSQL-02](26-PL-SQL-Development/images/PLSQL-02.png)
+
+### [PL/SQL - Oracle Database 19c: PL/SQL Workshop - 17h 26m](26-PL-SQL-Development/01-Oracle-Database-19c-PL-SQL-Workshop.md)
+
+
