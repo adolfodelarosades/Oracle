@@ -32,5 +32,9 @@ Extend the functionality of the SQL language with PL/SQL language to write appli
 
 ### [Manage PL/SQL Code	 - Managing Your PL/SQL Code](26-PL-SQL-Development/02-Managing-Your-PL-SQL-Code.md)
 
+### [Prepare for 1Z0-149 - Prepare for Oracle Database 19c: Program with PL/SQL Certification](26-PL-SQL-Development/03-Prepare-for-Oracle-Database-19c.md)
+
+
+
 
 
