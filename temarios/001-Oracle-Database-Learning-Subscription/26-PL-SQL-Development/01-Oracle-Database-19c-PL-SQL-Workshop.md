@@ -34,74 +34,74 @@ Version: 19c
 * Introduction - New - 17m
 * Practice 1-1: Getting Started - New - 19m
 
-### 2: Introduction to PL/SQL
+### 2: [Introduction to PL/SQL](01-Oracle-Database-19c-PL-SQL-Workshop/02-Introduction-to-PL-SQL.md)
 
 * Introduction to PL/SQL - New - 30m
 * Practice 2-1: Introduction to PL/SQL - New - 7m
 
-## 3: Declaring PL/SQL Variables
+### 3: [Declaring PL/SQL Variables](01-Oracle-Database-19c-PL-SQL-Workshop/03-Declaring-PL-SQL-Variables.md)
 
 * Declaring PL/SQL Variables - New - 26m
 * The `%TYPE` Attribute - New - 24m
 * Practice 3-1: Declaring PL/SQL Variables - New - 12m
 
-### 4: Writing Executable Statements
+### 4: [Writing Executable Statements](01-Oracle-Database-19c-PL-SQL-Workshop/04-Writing-Executable-Statements.md)
 
 * Writing Executable Statements - New - 27m
 * Practice 4-1: Writing Executable Statements - New - 17m
 
-### 5: Using SQL Statements Within a PL/SQL Block
+### 5: [Using SQL Statements Within a PL/SQL Block](01-Oracle-Database-19c-PL-SQL-Workshop/05-Using-SQL-Statements-Within-a-PL-SQL-Block.md)
 
 * Using SQL Statements Within a PL/SQL Block - New - 17m
 * Practice 5-1: Using SQL Statements Within a PL/SQL - New - 15m
 
-### 6: Writing Control Structures
+### 6: [Writing Control Structures](01-Oracle-Database-19c-PL-SQL-Workshop/06-Writing-Control-Structures.md)
 
 * Writing Control Structures - New - 28m
 * Basic Loop: Example - New - 14m
 * Practice 6-1: Writing Control Structures - New - 12m
 
-### 7: Working with Composite Data Types
+### 7: [Working with Composite Data Types](01-Oracle-Database-19c-PL-SQL-Workshop/07-Working-with-Composite-Data-Types.md)
 
 * Working with Composite Data Types - New - 37m
 * Associative Arrays (INDEX BY Tables) - New - 14m
 * Practice 7-1: Working with Composite Data Types - New - 23m
 
-### 8: Using Explicit Cursors
+### 8: [Using Explicit Cursors](01-Oracle-Database-19c-PL-SQL-Workshop/08-Using-Explicit-Cursors.md)
 
 * Using Explicit Cursors - New - 28m
 * Cursor FOR Loops - New - 15m
 * Practice 8-1: Using Explicit Cursors - New - 23m
 * Practice 8-2: Using Explicit Cursors: Optional - New - 11m
 
-### 9: Handling Exceptions
+### 9: [Handling Exceptions](01-Oracle-Database-19c-PL-SQL-Workshop/09-Handling-Exceptions.md)
 
 * Handling Exceptions - New - 32m
 * Practice 9-1: Handling Predefined Exceptions - New - 9m
 * Practice 9-2: Handling Standard Oracle Server Exceptions - New - 5m
 
-### 10: Introducing Stored Procedures and Functions
+### 10: [Introducing Stored Procedures and Functions](01-Oracle-Database-19c-PL-SQL-Workshop/10-Introducing-Stored-Procedures-and-Functions.md)
 
 * Introducing Stored Procedures and Functions - New - 22m
 * Practice 10-1: Creating and Using Stored Procedures - New - 8m
 
-### 11: Creating Procedures
+### 11: [Creating Procedures](01-Oracle-Database-19c-PL-SQL-Workshop/11-Creating-Procedures.md)
 
 * Creating Procedures - New - 31m
 * Practice 11-1: Creating and Using a New SQL Developer Database Connection - New - 5m
 * Practice 11-2: Creating, Compiling, and Calling Procedures - New - 30m
 
-### 12: Creating Functions
+### 12: [Creating Functions](01-Oracle-Database-19c-PL-SQL-Workshop/12-Creating-Functions.md)
 
 * Creating Functions - New - 25m
 * Practice 12-1: Creating Functions - New - 23m
 
-### 13: Debugging Subprograms
+### 13: [Debugging Subprograms](01-Oracle-Database-19c-PL-SQL-Workshop/13-Debugging-Subprograms.md)
 
 * Debugging Subprograms - New - 22m
 * Practice 13-1: Introduction to the SQL Developer Debugger - New - 21m
 
-### 14: Creating Packages
+### 14: [Creating Packages](01-Oracle-Database-19c-PL-SQL-Workshop/14-Creating-Packages.md)
 
 * Creating Packages - New - 25m
 * Practice 14-1: Creating and Using Packages - New - 23m
