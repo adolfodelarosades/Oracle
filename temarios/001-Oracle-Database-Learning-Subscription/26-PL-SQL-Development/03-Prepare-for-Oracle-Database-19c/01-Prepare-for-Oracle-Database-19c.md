@@ -1,11 +1,8 @@
-# # Prepare for 1Z0-149	 -  Prepare for Oracle Database 19c: Program with PL/SQL Certification 
+# Prepare for 1Z0-149	 -  Prepare for Oracle Database 19c: Program with PL/SQL Certification 
 
 ### 1: Exam Overview
 
 * Exam Overview - 10m
-
- 
-[MUSIC PLAYING]
 
 Hello and welcome to this overview on Preparing for the Programming with PL/SQL Certification Exam. Objectives on this one is what should you expect when you are getting ready to take the PL/SQL programming here certification. Well, our subject areas here are going to be the audience and prerequisites required, general exam information, the benefits that you'll get here from certification, a listing of the exam topics and areas that you can then turn to review and practice on, and then finally, the exam prep resources here that are available to you to prepare for your taking of the certification exam.
 
