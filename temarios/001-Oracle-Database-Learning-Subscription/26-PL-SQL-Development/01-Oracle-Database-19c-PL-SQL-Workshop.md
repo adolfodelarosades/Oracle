@@ -106,42 +106,42 @@ Version: 19c
 * Creating Packages - New - 25m
 * Practice 14-1: Creating and Using Packages - New - 23m
 
-### 15: Working with Packages
+### 15: [Working with Packages](01-Oracle-Database-19c-PL-SQL-Workshop/15-Working-with-Packages.md)
 
 * Working with Packages - New - 37m
 * Practice 15-1: Working with Packages - New - 37m
 
-### 16: Using Oracle-Supplied Packages in Application Development
+### 16: [Using Oracle-Supplied Packages in Application Development](01-Oracle-Database-19c-PL-SQL-Workshop/16-Using-Oracle-Supplied-Packages-in-Application-Development.md)
 
 * Using Oracle-Supplied Packages in Application Development - New - 18m
 * Practice 16-1: Using the UTL_FILE Package - New - 16m
 
-### 17: Using Dynamic SQL
+### 17: [Using Dynamic SQL](01-Oracle-Database-19c-PL-SQL-Workshop/17-Using-Dynamic-SQL.md)
 
 * Using Dynamic SQL - New - 28m
 * Practice 17-1: Using Native Dynamic SQL - New - 23m
 
-### 18: Creating Triggers
+### 18: [Creating Triggers](01-Oracle-Database-19c-PL-SQL-Workshop/18-Creating-Triggers.md)
 
 * Creating Triggers - New - 34m
 * Practice 18-1: Creating Statement and Row Triggers - New - 17m
 
-### 19: Creating Compound, DDL, and Event Database Triggers
+### 19: [Creating Compound, DDL, and Event Database Triggers](01-Oracle-Database-19c-PL-SQL-Workshop/19-Creating-Compound-DDL-and-Event-Database-Triggers.md)
 
 * Creating Compound, DDL, and Event Database Triggers - New - 14m
 * Practice 19-1: Managing Data Integrity Rules and Mutating Table Exceptions - New - 14m
 
-### 20: Design Considerations for the PL/SQL Code
+### 20: [Design Considerations for the PL/SQL Code](01-Oracle-Database-19c-PL-SQL-Workshop/20-Design-Considerations-for-the-PL-SQL-Code.md)
 
 * Design Considerations for the PL/SQL Code - New - 31m
 * Practice 20-1: Using Bulk Binding and Autonomous Transactions - New - 23m
 
-### 21: Tuning the PL/SQL Compiler
+### 21: [Tuning the PL/SQL Compiler](01-Oracle-Database-19c-PL-SQL-Workshop/21-Tuning-the-PL-SQL-Compiler.md)
 
 * Tuning the PL/SQL Compiler - New - 25m
 * Practice 21-1: Using the PL/SQL Compiler Parameters and Warnings - New - 16m
 
-### 22: Managing Dependencies
+### 22: [Managing Dependencies](01-Oracle-Database-19c-PL-SQL-Workshop/22-Managing-Dependencies.md)
 
 * Managing Dependencies - New - 28m
 * Practice 22-1: Managing Dependencies in Your Schema - New - 14m
