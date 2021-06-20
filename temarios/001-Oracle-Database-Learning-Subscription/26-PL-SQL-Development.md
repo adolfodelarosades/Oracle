@@ -30,4 +30,7 @@ Extend the functionality of the SQL language with PL/SQL language to write appli
 
 ### [PL/SQL - Oracle Database 19c: PL/SQL Workshop - 17h 26m](26-PL-SQL-Development/01-Oracle-Database-19c-PL-SQL-Workshop.md)
 
+### [Manage PL/SQL Code	 - Managing Your PL/SQL Code](26-PL-SQL-Development/02-Managing-Your-PL-SQL-Code.md)
+
+
 
